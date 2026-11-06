@@ -1,0 +1,4 @@
+method,ARI,NMI
+KMeans,0.9973306577635366,0.9952957554740187
+GMM (full),1.0,1.0
+Agglomerative (ward),1.0,1.0
